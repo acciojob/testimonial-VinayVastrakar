@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:grey;
+	padding:10px;
+}
+.first{
+	background-color:white;
+	padding:5px;
+	border:1px solid gray;
+	margin:20px;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
